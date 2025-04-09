@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/user/OneDrive/Desktop/ML/Mlops/iris_project/mlruns/0/afb263d1fa4940e680e59ca042a60e91/artifacts
+end_time: 1744176147684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afb263d1fa4940e680e59ca042a60e91
+run_name: Random_Forest_Model
+run_uuid: afb263d1fa4940e680e59ca042a60e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744176130517
+status: 3
+tags: []
+user_id: user

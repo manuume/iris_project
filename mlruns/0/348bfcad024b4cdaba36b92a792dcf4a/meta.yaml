@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/user/OneDrive/Desktop/ML/Mlops/iris_project/mlruns/0/348bfcad024b4cdaba36b92a792dcf4a/artifacts
+deleted_time: 1744176422702
+end_time: 1744174647271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 348bfcad024b4cdaba36b92a792dcf4a
+run_name: Decision_Tree_Model
+run_uuid: 348bfcad024b4cdaba36b92a792dcf4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744174589253
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/user/OneDrive/Desktop/ML/Mlops/iris_project/mlruns/0/e50a7e03170c44e5b062dfef239a9b96/artifacts
+deleted_time: 1744176438644
+end_time: 1744175976474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e50a7e03170c44e5b062dfef239a9b96
+run_name: Random_Forest_Model
+run_uuid: e50a7e03170c44e5b062dfef239a9b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744175957694
+status: 3
+tags: []
+user_id: user
